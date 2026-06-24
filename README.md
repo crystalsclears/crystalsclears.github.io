@@ -3,8 +3,6 @@
 
   <h1>CrystalClear's Website</h1>
 
-    Welcome to my crystallized home.
-
   <p>
     <h2>~What I love~</h2>
     <ul>
