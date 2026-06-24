@@ -1,0 +1,59 @@
+/* styles/style.css */
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.neon-text {
+  font-size: 4rem;
+  color: #39ff14;
+  text-align: center;
+  margin: 1rem 0;
+  text-shadow: 
+     0 0 5px #39ff14,
+     0 0 10px #39ff14,
+     0 0 20px #39ff14,
+     0 0 30px #39ff14;
+}
+
+.neon-subtitle {
+  color: #ff007f;
+  text-shadow:
+     0 0 4px #ff007f,
+     0 0 8px #ff007f,
+     0 0 16px #ff007f;
+}
+
+.neon-link {
+  display: inline-block;
+  margin: 0 1rem;
+  color: #39ff14;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-shadow:
+     0 0 3px #39ff14,
+     0 0 6px #39ff14,
+     0 0 10px #39ff14;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.neon-link:hover {
+  color: #fff;
+  text-shadow:
+     0 0 5px #39ff14,
+     0 0 15px #39ff14,
+     0 0 25px #39ff14;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.neon-footer {
+  text-align: center;
+  padding: 2rem 0;
+  color: #777;
+}
