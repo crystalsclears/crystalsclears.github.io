@@ -32,6 +32,5 @@
     </ul>
   </p>
 
-  <img src="/home/crystalclear/Downloads/neocities.png">
   </body>
 </html>
